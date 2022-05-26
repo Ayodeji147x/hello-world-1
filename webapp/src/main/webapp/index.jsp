@@ -1,6 +1,6 @@
-<form action="action_page.php">
+<form ction="action_page.php">
   <div class="container">
-    <h1>Register for Parlevu DevOps Academy Maryland USA</h1>
+    <h1>Register for Parlevu DevOps Academy USA</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
